@@ -1,0 +1,7 @@
+Test Name,Status,Timestamp
+test_login_functionality,Passed,2025-03-13 09:19:08
+test_element_presence,Passed,2025-03-13 09:19:08
+test_broken_links,Passed,2025-03-13 09:19:08
+test_login_functionality,Failed,2025-03-13 09:19:08
+test_element_presence,Failed,2025-03-13 09:19:08
+test_broken_links,Failed,2025-03-13 09:19:08
